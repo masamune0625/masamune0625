@@ -1,8 +1,8 @@
-# 仲井正宗 / Masamune Nakai
+# masamune0625
 
 [![Folio](https://folio.akima-inc.co.jp/api/card/masamune0625)](https://folio.akima-inc.co.jp/r/masamune0625)
 
-株式会社AKIMA代表。Next.js / TypeScript / Supabase でプロダクトを作っています。
+Next.js / TypeScript / Supabase でプロダクトを作っています。
 
 ## 作っているもの
 
