@@ -13,11 +13,17 @@ Next.js / TypeScript / Supabase でプロダクトを作っています。
 
 ## 📢 最近のアップデート
 
-**2026-10-23** — READMEカードを刷新し、X・ココナラ・ランサーズに貼れる名刺画像を追加しました。リポジトリを「頼める仕事」の事例に変える制作事例ページも公開。
+<!-- folio-updates:start -->
+- **2026-10-23** 【新機能】[案件レーダー(β)を始めました](https://folio.akima-inc.co.jp/updates#radar-beta)
+- **2026-10-23** 【改善】[事例やタイプを画像つきでXに投稿できるように](https://folio.akima-inc.co.jp/updates#share-with-image)
+- **2026-10-23** 【改善】[GitHubのREADMEカードを刷新](https://folio.akima-inc.co.jp/updates#readme-card-v2)
+- **2026-10-23** 【新機能】[X・ココナラ・ランサーズに貼れる名刺画像](https://folio.akima-inc.co.jp/updates#name-card-image)
+- **2026-10-23** 【新機能】[リポジトリを「頼める仕事」の事例に](https://folio.akima-inc.co.jp/updates#case-studies)
 
-<img src="https://folio.akima-inc.co.jp/updates/2026-10-23-x-header.png" alt="Folioの名刺画像(Xヘッダー用)" width="640">
+<img src="https://folio.akima-inc.co.jp/api/og/update/radar-beta" alt="案件レーダー(β)を始めました" width="640">
 
-更新ログは [Zennのスクラップ](https://zenn.dev/masamune0625/scraps/fa5ea1f8a2f512) にまとめています。
+すべての更新は [アップデート情報](https://folio.akima-inc.co.jp/updates) と [Zennの開発ログ](https://zenn.dev/masamune0625/scraps/fa5ea1f8a2f512) にまとめています。
+<!-- folio-updates:end -->
 
 ## お仕事のご相談
 
