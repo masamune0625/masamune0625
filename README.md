@@ -14,13 +14,13 @@ Next.js / TypeScript / Supabase でプロダクトを作っています。
 ## 📢 最近のアップデート
 
 <!-- folio-updates:start -->
+- **2026-10-27** 【改善】[営業ページを作っている間の画面を分かりやすく](https://folio.akima-inc.co.jp/updates#waiting-screen)
 - **2026-10-23** 【改善】[シェアされた営業ページから、自分の分もすぐ作れるように](https://folio.akima-inc.co.jp/updates#visitor-start)
 - **2026-10-23** 【改善】[公開時の電話番号を任意にしました](https://folio.akima-inc.co.jp/updates#phone-optional)
 - **2026-10-23** 【改善】[営業ページの作成から公開までを短く](https://folio.akima-inc.co.jp/updates#draft-to-publish)
 - **2026-10-23** 【新機能】[案件レーダー(β)を始めました](https://folio.akima-inc.co.jp/updates#radar-beta)
-- **2026-10-23** 【改善】[事例やタイプを画像つきでXに投稿できるように](https://folio.akima-inc.co.jp/updates#share-with-image)
 
-<img src="https://folio.akima-inc.co.jp/api/og/update/visitor-start" alt="シェアされた営業ページから、自分の分もすぐ作れるように" width="640">
+<img src="https://folio.akima-inc.co.jp/api/og/update/waiting-screen" alt="営業ページを作っている間の画面を分かりやすく" width="640">
 
 すべての更新は [アップデート情報](https://folio.akima-inc.co.jp/updates) と [Zennの開発ログ](https://zenn.dev/masamune0625/scraps/fa5ea1f8a2f512) にまとめています。
 <!-- folio-updates:end -->
